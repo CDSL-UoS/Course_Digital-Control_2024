@@ -13,7 +13,7 @@
 - **Ch. 0. Introduction to Course: Why Digital Control**
   - [Lecture Note](./Lecture_Notes/CH00_Introduction.pdf)
 - **Ch. 2. Discrete-time Systems and the $z$-Transform**
-  - [Lecture Note](./Lecture_Notes/CH02_Discrete-time%20Systems%20and%20z-Transform.pdf)
+  - [Lecture Note](tree/main/Lecture_Notes/CH02_Discrete-time%20Systems%20and%20z-Transform.pdf)
   - [MATLAB/Simulink Simulation 2-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-a) : $z$-transform의 이해
   - [MATLAB/Simulink Simulation 2-b](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-b) : 이산 시간 시스템의 구현
   - [MATLAB/Simulink Simulation 2-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-c) : 상태변수 모델의 이해
