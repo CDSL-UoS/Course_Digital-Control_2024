@@ -14,7 +14,7 @@
   - [Lecture Note]()
 - **Ch. 2. Discrete-time Systems and the $z$-Transform**
   - [Lecture Note]()
-  - [MATLAB/Simulink Simulation 2-a](/MATLAB-Simulink%20Exercise/CH02/2-a) : $z$-transform의 이해
+  - [MATLAB/Simulink Simulation 2-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-a) : $z$-transform의 이해
   - [MATLAB/Simulink Simulation 2-b]() : Discrete-time system의 구현
   - [MATLAB/Simulink Simulation 2-c]() : State-space model의 이해
 - **Ch. 3. Sampling and Reconstruction**
