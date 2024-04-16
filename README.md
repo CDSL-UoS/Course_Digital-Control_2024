@@ -16,7 +16,7 @@
   - [Lecture Note]()
   - [MATLAB/Simulink Simulation 2-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-a) : $z$-transform의 이해
   - [MATLAB/Simulink Simulation 2-b](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-b) : 이산 시간 시스템의 구현
-  - [MATLAB/Simulink Simulation 2-c]() : 상태변수 모델의 이해
+  - [MATLAB/Simulink Simulation 2-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-c) : 상태변수 모델의 이해
 - **Ch. 3. Sampling and Reconstruction**
   - [Lecture Note]()
   - [MATLAB/Simulink Simulation 3-a]() : 샘플 데이터 시스템의 구현과 이해
