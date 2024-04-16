@@ -11,7 +11,7 @@
 본 강의에서는 제어 이론과 제어기 설계 능력을 동시에 함양하기 위하여 MATLAB/Simulink 예제를 추가로 제공하고 있습니다.
 
 - **Ch. 0. Introduction to Course: Why Digital Control**
-  - [Lecture Note](/Lecture%20Notes/CH00_Introduction.pdf)
+  - [Lecture Note]([/Lecture%20Notes/CH00_Introduction.pdf](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH00_Introduction.pdf))
 - **Ch. 2. Discrete-time Systems and the $z$-Transform**
   - [Lecture Note]()
   - [MATLAB/Simulink Simulation 2-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-a) : $z$-transform의 이해
