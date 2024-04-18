@@ -19,7 +19,7 @@
   - [MATLAB/Simulink Simulation 2-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-c) : 상태변수 모델의 이해
 - **Ch. 3. Sampling and Reconstruction**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH03_Sampling%20and%20Reconstruction.pdf)
-  - [MATLAB/Simulink Simulation 3-a]() : 샘플 데이터 시스템의 구현과 이해 (TBA)
+  - [MATLAB/Simulink Simulation 3-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH03/3-a) : 샘플링과 데이터 홀드의 이해
 - **Ch. 4. Open-loop Discrete-time Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH04_Open-loop%20Discrete-time%20Systems.pdf)
   - [MATLAB/Simulink Simulation 4-a]() : Pulse transfer function (TBA)
