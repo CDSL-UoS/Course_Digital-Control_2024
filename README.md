@@ -22,9 +22,10 @@
   - [MATLAB/Simulink Simulation 3-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH03/3-a) : 샘플링과 데이터 홀드의 이해
 - **Ch. 4. Open-loop Discrete-time Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH04_Open-loop%20Discrete-time%20Systems.pdf)
-  - [MATLAB/Simulink Simulation 4-a]() : Pulse transfer function (TBA)
-  - [MATLAB/Simulink Simulation 4-b]() : Delay가 존재하는 system의 이해 (TBA)
-  - [MATLAB/Simulink Simulation 4-c]() : Sampled-data system의 state-space model (TBA)
+  - [MATLAB/Simulink Simulation 4-a]() : 펄스 전달함수의 이해
+  - [MATLAB/Simulink Simulation 4-b]() : 샘플 데이터 시스템의 상태변수 모델
+  - [MATLAB/Simulink Simulation 4-c]() : 연결된 개루프 시스템 모델 이해
+  - [MATLAB/Simulink Simulation 4-d]() : 시간 지연이 있는 샘플 데이터 시스템의 해석 (**Optional**, TBA)
 - **Ch. 5. Closed-loop Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH05_Closed-loop%20Systems.pdf)
   - [MATLAB/Simulink Simulation 5-a]() (TBA)
