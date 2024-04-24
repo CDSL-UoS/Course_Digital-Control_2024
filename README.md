@@ -19,17 +19,19 @@
   - [MATLAB/Simulink Simulation 2-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH02/2-c) : 상태변수 모델의 이해
 - **Ch. 3. Sampling and Reconstruction**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH03_Sampling%20and%20Reconstruction.pdf)
-  - [MATLAB/Simulink Simulation 3-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH03/3-a) : 샘플링과 데이터 홀드의 이해
+  - [MATLAB/Simulink Simulation 3-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH03/3-a) : 샘플링과 데이터 홀드의 이해 ([HTML](/MATLAB-Simulink/CH03/3-a/main.html))
 - **Ch. 4. Open-loop Discrete-time Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH04_Open-loop%20Discrete-time%20Systems.pdf)
-  - [MATLAB/Simulink Simulation 4-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-a) : 펄스 전달함수의 이해
-  - [MATLAB/Simulink Simulation 4-b](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-b) : 샘플 데이터 시스템의 상태변수 모델
-  - [MATLAB/Simulink Simulation 4-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-c) : 연결된 개루프 시스템 모델 이해
+  - [MATLAB/Simulink Simulation 4-a](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-a) : 펄스 전달함수의 이해 ([HTML](/MATLAB-Simulink/CH04/4-a/main.html))
+  - [MATLAB/Simulink Simulation 4-b](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-b) : 샘플 데이터 시스템의 상태변수 모델 ([HTML](/MATLAB-Simulink/CH04/4-b/main.html))
+  - [MATLAB/Simulink Simulation 4-c](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-c) : 연결된 개루프 시스템 모델 이해 ([HTML](/MATLAB-Simulink/CH04/4-c/main.html))
   - [MATLAB/Simulink Simulation 4-d](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-d) : 시간 지연이 있는 샘플 데이터 시스템의 해석 (**Optional**, TBA)
 - **Ch. 5. Closed-loop Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH05_Closed-loop%20Systems.pdf)
   - [MATLAB/Simulink Simulation 5-a]() (TBA)
 - **Ch. 6. System Time-response Characteristics** (TBA)
+  - [Lecture Note](/Lecture_Notes/CH06_System%20Time-response%20Characteristics.pdf)
+  - [MATLAB/Simulink Simulation 6-a]() (TBA)
 - **Ch. 7. Stability Analysis Techniques** (TBA)
 - **Ch. 8. Digital Control Design** (TBA)
 - **Ch. 9. Pole-assignment Design and State Estimation** (TBA)
