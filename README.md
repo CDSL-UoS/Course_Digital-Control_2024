@@ -1,6 +1,6 @@
 # **[2024년 1학기] 디지털제어**
 
-본 repo는 서울시립대학교 전자전기컴퓨터공학부 학부/대학원 공통 교과목인 **"디지털제어(Digital Control)"** 교과목의 학습자료를 관리하기 위해 작성되었습니다...!!
+본 repo는 서울시립대학교 전자전기컴퓨터공학부 학부/대학원 공통 교과목인 **"디지털제어(Digital Control)"** 교과목의 학습자료를 관리하기 위해 작성되었습니다.
 
 - **수업 학기** : 2024년 1학기
 - **강의자** : 서울시립대학교 전자전기컴퓨터공학부 박경훈 교수 (gyunghoon.park@uos.ac.kr)
@@ -28,14 +28,28 @@
   - [MATLAB/Simulink Simulation 4-d](https://github.com/CDSL-UoS/Course_Digital-Control_2024/tree/main/MATLAB-Simulink/CH04/4-d) : 시간 지연이 있는 샘플 데이터 시스템의 해석 (**Optional**, TBA)
 - **Ch. 5. Closed-loop Systems**
   - [Lecture Note](https://github.com/CDSL-UoS/Course_Digital-Control_2024/blob/main/Lecture_Notes/CH05_Closed-loop%20Systems.pdf)
-  - [MATLAB/Simulink Simulation 5-a]() (TBA)
-- **Ch. 6. System Time-response Characteristics** (TBA)
+  - [MATLAB/Simulink Simulation 5-a]() : 폐루프 샘플 데이터 시스템의 이해
+- **Ch. 6. System Time-response Characteristics** 
   - [Lecture Note](/Lecture_Notes/CH06_System%20Time-response%20Characteristics.pdf)
-  - [MATLAB/Simulink Simulation 6-a]() (TBA)
+  - [MATLAB/Simulink Simulation 6-a]() : 폐루프 샘플 데이터 시스템의 시스템 응답
+  - [MATLAB/Simulink Simulation 6-a]() : 시스템 유형과 내부 모델 이론 소개
 - **Ch. 7. Stability Analysis Techniques** (TBA)
+  - [Lecture Note]()
+  - [MATLAB/Simulink Simulation 7-a]() : 이산 시간 개루프 시스템의 안정성 해석
+  - [MATLAB/Simulink Simulation 7-b]() : 근 궤적법을 이용한 안정성 판별 (TBA)
+  - [MATLAB/Simulink Simulation 7-c]() : 나이퀴스트 선도를 이용한 안정성 판별과 이득/위상 여유 (TBA) 
 - **Ch. 8. Digital Control Design** (TBA)
-- **Ch. 9. Pole-assignment Design and State Estimation** (TBA)
+   - [Lecture Note]()
+   - [MATLAB/Simulink Simulation 8-a]() : 위상 앞섬/뒤짐 보상기 설계 (TBA)
+   - [MATLAB/Simulink Simulation 8-b]() : PID 제어기 설계 및 구현 (TBA)
+ - **Ch. 9. Pole-assignment Design and State Estimation & Ch. 11. Linear Quadratic Optimal Control** (TBA)
+   - [Lecture Note]()
+   - [MATLAB/Simulink Simulation 9-a]() : 상태 궤환 제어기 설계 (TBA)
+   - [MATLAB/Simulink Simulation 9-b]() : 상태 추정기 설계 (TBA)
+   - [MATLAB/Simulink Simulation 11-a]() : 선형 이차 추종기 설계 (TBA) 
+   - [MATLAB/Simulink Simulation 11-b]() : 칼만 필터 설계 (**Optional**, TBA)  
 - **Ch. 10. System Identification of Discrete-time Systems** (TBA)
+   - [Lecture Note]()
 
 ## **Homeworks**
 
